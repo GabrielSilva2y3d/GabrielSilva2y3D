@@ -4,7 +4,6 @@
 - 🌱 Studying Delphi 
 - ⚡ According to many online studies, the most disliked programming languages are Perl, Delphi, and VBA. :/ 
 
-
  ##
 
 <div align="center">
