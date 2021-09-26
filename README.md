@@ -1,8 +1,8 @@
 ### Hey, My Name is Gabriel, nice to meet ya~ 👋
-
-- 🔭 Working with Delphi Desktop Applications
-- 🌱 Studying Delphi 
-- ⚡ According to many online studies, the most disliked programming languages are Perl, Delphi, and VBA. :/ 
+I'm: 
+-  Working with **Delphi** Desktop Applications
+-  Studying **Delphi** at the moment 
+-  Fun Fact: According to many online studies, the most disliked programming languages are Perl, **Delphi**, and VBA.
 
  ##
 
