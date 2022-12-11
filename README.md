@@ -1,7 +1,7 @@
 ### Hey, My Name is Gabriel, nice to meet ya~ 👋
 I'm: 
 -  Studying **Web Development** at the moment 
--  Fun Fact: According to many online studies, the most disliked programming languages are Perl, **Delphi**, and VBA.
+-  Fun Fact: The QWERTY keyboard was designed to slow you down. 
 
  ##
 
