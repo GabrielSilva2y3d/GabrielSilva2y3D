@@ -15,16 +15,14 @@
 ## My Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielSilva2y3d&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielSilva2y3d&layout=compact&langs_count=7&theme=great-gatsby"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielSilva2y3d&theme=great-gatsby" alt="Streak stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSilva2y3d&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilva2y3d&layout=compact&langs_count=8&theme=great-gatsby"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=GabrielSilva2y3d&theme=great-gatsby"/>
 </div>
 
 ## Technologies I Work With
 
-<div align="center">
-  <img align="left" alt="Gabriel's avatar" height="200" style="border-radius:50%;" src="https://share-cdn.picrew.me/shareImg/org/202109/338224_PgQb769V.png">
-  
+<div align="center"> 
   <img alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
