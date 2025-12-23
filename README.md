@@ -13,8 +13,6 @@
 ## My Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSilva2y3d&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilva2y3d&layout=compact&langs_count=8&theme=great-gatsby"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=GabrielSilva2y3d&theme=great-gatsby"/>
 </div>
 
